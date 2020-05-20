@@ -1,0 +1,14 @@
+{
+    "grades":[
+        {"studentId": 1, "grade": "A"},
+        {"studentId": 1, "grade": "F"},
+        {"studentId": 1, "grade": "D"},
+        {"studentId": 2, "grade": "C"},
+        {"studentId": 2, "grade": "B"},
+        {"studentId": 3, "grade": "A"},
+        {"studentId": 3, "grade": "D"},
+        {"studentId": 3, "grade": "C"},
+        {"studentId": 3, "grade": "B"},
+        {"studentId": 4, "grade": "F"}
+    ]
+}

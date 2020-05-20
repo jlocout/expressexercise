@@ -1,0 +1,8 @@
+{
+    "students":[
+        {"studentId":"1", "username":"au", "name":"abcn", "email":"a"},
+        {"studentId":"2", "username":"bu", "name":"bcdn", "email":"b"},
+        {"studentId":"3", "username":"cu", "name":"cden", "email":"c"},
+        {"studentId":"4", "username":"du", "name":"defn", "email":"d"}
+    ]
+}
